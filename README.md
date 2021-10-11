@@ -58,3 +58,9 @@ https://pixabay.com/de/photos/erdbeben-seismograph-seismische-3167693/
 
 Thanks to Ujaval Gandhi for providing easier access to the dataset on 
 https://www.qgistutorials.com/de/docs/importing_spreadsheets_csv.html => signif.txt
+
+6. Findings
+
+For smaller earthquakes, there appears to be a trend towards more and more earthquakes 
+over time. Some possible reasons for this effect are discussed in the article.
+For more intense earthquakes however, such an effect is not supported by the data.
